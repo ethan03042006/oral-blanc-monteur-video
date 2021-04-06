@@ -1,0 +1,41 @@
+body{
+	/*pour le dégradé arrière*/
+ background:radial-gradient(circle at top ,darkgreen,black);
+
+	
+}
+
+.carte{
+	/*pour la page blanche*/
+	background-color: white ; 
+	width: 800px;
+	margin: 0 auto;
+
+
+
+
+}
+
+.h2duhaut{
+	    /*le titre */
+	/*texte*/color: black;
+	text-align: center;
+	text-shadow: 3px 1px 2px #CECECE;
+	font-family: verdana,sans-serif;
+	/*bordure*/border-width: 5px;
+    margin-left: 130px;
+    margin-right: 130px;
+	border-style: solid;
+	border-radius: 5px;
+	border-color: darkgreen;
+	
+	
+}
+
+.p1{
+	/*le premier texte*/
+	color: black;
+	font-size: 150%;
+	font-weight: bold;
+
+}

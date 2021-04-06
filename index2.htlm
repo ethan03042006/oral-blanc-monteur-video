@@ -1,0 +1,101 @@
+<!DOCTYPE html">
+<html lang="fr">
+  <head>
+    <title>monteur-vidéo</title>
+    <link rel="stylesheet" type="text/css" href="style2.css" />
+ 
+  </head>
+  
+  <body>
+   <div class="carte">
+    <h1>Courte présentation d'une de mes démarches dans le choix d'un métiers<br> Monteur vidéo</h1>
+     <div class="sciseau"><img src="sciseau.png"></div>
+
+    <h2>1]Qui suis-je?</h2>
+    <p>Bonjour à tous,je suis Ethan Connan élève 3A du collège vallée violette à Tours (37300).<br>Et c'est à l'occasion de mon oral blanc que j'ai pu travaillé sur ce sujet. <br>Et c'est ainsi que j'ai pu vous le partager grâce ce site experimentale de l'utilisation des outils HTML CSS. </p>
+
+    <h2>2]Présentation du plan:</h2>
+    <p><ul><li>Premièrement j’éclaircirais sur en quoi consiste le métiers de monteur vidéo.</li>
+           <li>En second lieu, j’expliquerais comment je m’y suis intéressé .</li>
+           <li>Ensuite quelles sont les études.</li> 
+           <li>Puis j’énumérerais les avantages et inconvénients.</li>
+           <li>Et pour finir je conclurais sur mon ressentie par rapport à ce métier.</li>
+        </ul></p>
+    <p>Alors, c'est parti !</p>
+
+    <h2>3]Tout d’abord en quoi consiste ce métier ? </h2>
+    <p>Le montage vidéo consiste à assembler des bouts de vidéo de manière cohérente,
+       ajouter des images des sons,
+       améliorer la qualité visuelle et sonore 
+       afin de rendre une vidéo plus dynamique et professionnel.<br></p> 
+       <div class="logo"><img src="pr.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <img src="finalcutpro-b.png"></div><br>
+       <h4>Premier Pro (windows)</h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h4>Final Cut Pro (Mac)</h4>
+    <p>Pour cela le monteur travaille sur des logiciels comme Première Pro pour Windows ou Final Cut Pro pour MAC.<br>
+       Et pour les monteurs qui travaille en prestataires cela ajoute la communication de la micro-entreprise, la recherche et la relation clients et la comptabilité.</p>
+       <div class="time"><img src="timeline.png"></div>
+
+    <h2>4]Comment je m’y suis intéressé ?</h2>
+     <p>En réalité j’ai toujours connu ce métiers<br> notamment grâce à certain Youtubeur qui parlaient de leurs expériences
+       mais je n’en savais pas grand-chose,<br>
+       et comme j’apprécie les métiers du numérique et que je suis curieux j’ai finis par mis intéressé.<br> 
+       Et c’est finalement grâce à Instagram que j’ai pue concrètement expérimenté la chose en postant des vidéos de moi en roller ou en faisant du parkour. </p>
+       <video autoplay muted="on" src="video1.mp4"; loop="on"></video>
+
+    <h2>5]Quelles sont les études ?</h2>
+     <p>Tout d’abord ce qu’il faut savoir c’est que dans ce milieu, 
+       le  parcours professionnel est très souple 
+       donc il ne faut pas se fier à 100 % à ce schéma 
+       car il y a en réalité beaucoup plus de possibilité que ça. </p>
+     <h3>-le BTS</h3>
+      <p>Donc on commence avec le BTS cinéma et audiovisuelle 
+         option post-production de 3 ans,<br> il associe parfaitement la théorie avec la pratique, l’inscription est un peu rude. 
+     <h3>-Les licences pro</h3>   
+      <p>Il y a possibilité d'en faire une après le bts mais de ce cas, c’est pour les personnes qui ont de plus grande ambition.Et c'est dans le but d'un approfondissement</p>  
+     <h3>Les écoles supérieures</h3> 
+       <p> sur deux ans, là c’est plus globale car il n’y a que deux options, c’est un peu plus théorique que le BTS,les            inscriptions sont très complexes en public.</p> 
+      <h3>-La faculté</h3> 
+       <p>C’est sur 3 à 5 ans, en fac on est quasiment que sur de la théorie, les inscriptions sont relativement facile,<br> il n’y a que 15 heures dans la semaine ce qui permet pour certain d’étudier en parallèle en autodidacte.</p>
+     <h3>-Les études en autodidacte</h3> 
+      <p>grâce notamment au contenu gratuit qu’on peut retrouver sur Youtube ou d’autres sites 
+        ou avec des formations en lignes souvent payante,<br> 
+        cela nécessite beaucoup de motivation et de discipline, 
+        et ça ne demande évidamment pas forcément de bac général.  </p>
+
+    <h2>6]Quelles sont les avantages et les inconvénients ? </h2>
+     <h3>-Comme avantage, nous avons</h3>
+      <p>le salaire. <br>
+        Et ce qu’il faut savoir c’est que de plus en plus de monteur travaille en freelance<br> et c’est ce qui m’attire le plus  notamment car on peut travailler partout,<br>
+        on gère notre temps de travaille en fonction de nos revenus.<br>
+        De plus c’est un métiers, qui s’annonce très prometteurs pour le futur, <br>
+        en effet les chaînes de télé non cessées d’augmenter le contenu vidéo sur le web explose<br> et les entreprises cherchent de plus en plus de visibilité sur internet et tout cela nécessite de plus en plus de monteur.<br> 
+        Et il est également impossible de l’automatiser grâce à une IA,<br> car ça demandera toujours un point de vu humain notamment sur les goûts et préférences de chacun. <br>
+        Même si il faudra tout de même savoir s’adapter en fonction de l’évolution du métier.</p>
+     <h3>-Et ensuite les défauts du métiers:</h3>
+      <p>Il faut être capable de rester assis pendant des heures sans rien faire devant un écran, 
+         ça peut provoquer des mal de dos au poignets également des migraines ect... <br> 
+         Et il faut aimé être seul dans sa bulle pouvoir resté concentré. <br>
+         C’est également une profession qui est touché par le syndrome de l’imposteur …</p>
+         <div class="migraines"><img src="defaut.jpg"></div>
+    <h2>7]Conclusion:</h2>
+      <p>Pour conclure, je penses qu’il me plaît beaucoup notamment grâce au faite qu’il puisse être pratiqué plus facilement en freelance 
+         et c’est pour cette raison que j’aime les métiers du numériques en générale comme développer web,community managers ou encore vidéaste…<br> 
+         De plus je suis pas mal attaché au format vidéo voir même au cinéma. 
+         Les études me semble atteignable .
+         Et les inconvénients sont je l’espères surmontable.<br> 
+         Donc c’est un métier que je pourrai probablement envisagés pour mon orientation professionnelle.</p>
+         <div class="monteuse"><img src="monteuse.png"></div>
+    <h2>8]Les sources:</h2>
+      <p>Tout d’abord j’ai utilisé : <br>
+         <a href="https://www.orientation.com/"target="_blank" style="color:#00B488;">orientation.com</a> pour les études<br>
+         et <a href="https://www.letudiant.fr"target="_blank"style="color:#00B488;">letudiant.fr</a> pour les avantages du métiers <br>
+         et j’ai piocher dans les deux sites pour la partie en quoi consiste ce métiers<br>
+         et <a href="https://www.onisep.fr"target="_blank"style="color:#00B488;">l’onisep</a> pour la partie étude.<br>
+         Et je me suis également appuyé sur le témoignage de certain monteur pour 
+         les inconvénients et l’avenir du métiers avec la chaîne <a href="https://www.youtube.com/user/GaouProd"target="_blank"style="color:#00B488;">GaouProd</a> <br>
+         et la chaîne <a href="https://www.youtube.com/user/ApprendreLeCinema"target="_blank"style="color:#00B488;">ApprendreLeCinema</a> pour les études.</p><br><br><br>
+   </div>
+  	
+  </body>
+</html>
+

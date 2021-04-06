@@ -1,0 +1,89 @@
+body{
+    background-color: #2B4352;
+
+	
+}
+
+.carte{
+	background-color: white ; 
+	width: 900px;
+	margin: 0 auto;
+	margin-top: 25px;
+	margin-bottom: 25px;
+    text-align: center;
+	padding: 20px;
+	box-shadow: 0px 0px 30px #2A2A2A;
+}
+
+h2{
+	color: #00876E;
+	line-height: 220%;
+	font-family: serif;
+	font-size: 180%;
+}
+
+h1{
+    color: #2B4352;
+    text-decoration: underline;
+    font-family:  serif;
+    font-size: 193%;
+}
+h3{
+	color: #00B488;
+	font-size: 160%
+	line-height: 180%;
+	font-family:  serif;
+}
+h4{
+	color: #5570BA;
+	font-size: 140%
+	line-height: 180%;
+	font-family:  serif;
+	display: inline;
+	text-decoration: underline;
+}
+
+p{
+    line-height: 150%;
+    font-family: sans-serif;
+
+}
+
+li{
+    list-style-type: none;
+    font-family: sans-serif;
+}
+.sciseau img{
+	width: 90px;
+	box-shadow: 5px -2.5px 7px darkgrey;
+	margin-top: -5px;
+	margin-bottom: -18px;
+}
+.logo img{
+	width: 60px;
+	margin-bottom: -10px;
+}
+.time img{
+	width:400px;
+	height: auto;
+	box-shadow: 5px -2.5px 11px darkgrey;
+}
+video{
+	box-shadow: 5px -2.5px 7px darkgrey;
+	width: 400px;
+	height: auto;
+	margin-top: 15px;
+}
+.migraines img{
+	width:250px;
+	height: auto;
+	box-shadow: 5px -2.5px 7px darkgrey;
+	margin-top: 5px;
+	margin-bottom: -10px;
+}
+.monteuse img{
+	width:400px;
+	height: auto;
+	box-shadow: 5px -2.5px 11px darkgrey;
+	margin-top: 15px;
+}
